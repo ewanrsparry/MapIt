@@ -22,7 +22,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://tiles.openmaptiles.org/v3.json"
+      "url": "https://demotiles.maplibre.org/tiles.json"
     }
   },
   "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
